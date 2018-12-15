@@ -19,5 +19,5 @@ Control and Connectivity | Using mobile or web application to control and instru
 Area | Possible use case
 ------------ | -------------
 Agriculture | Crop survey and analysis with visual computing
-Smart home | With similar device development skills
+Smart home (Internet Of Things) | With similar device development skills
 
