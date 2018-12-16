@@ -12,7 +12,7 @@ Programming language  | C/C++
 Perception - Vision | Computer Vision (e.g. libraries [OpenCV](https://opencv.org/), [DLib](http://dlib.net/) etc.)
 Learning & Memory | Machine Learning, Reinforcement Learning, Genetic Algorithm
 Navigation & Localization | 3D cognitive map of the world for map matching, Computer vision for generating point clouds for 3D world etc.
-Control and Connectivity | * Using mobile or web application to control and instruct the Picopter with for example Bluetooth connection. Maybe use a [Node-RED](https://nodered.org/) development environment. 
+Control and Connectivity | Using mobile or web application to control and instruct the Picopter with for example Bluetooth connection. Maybe use a [Node-RED](https://nodered.org/) development environment. 
 
 
 ### Use cases:
