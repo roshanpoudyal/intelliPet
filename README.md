@@ -21,3 +21,6 @@ Area | Possible use case
 Agriculture | Crop survey and analysis with visual computing
 Smart home (Internet Of Things) | With similar device development skills
 
+### AI and Machine learning resources:
+1. [Deep Learning and AI tutorials,Courses, lectures, videos, Papers, Researhers, Websites,Datasets, Apps, companies, projects and communities](https://www.leadingindia.ai/resources/).
+
