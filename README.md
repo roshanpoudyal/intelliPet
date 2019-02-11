@@ -21,6 +21,9 @@ Area | Possible use case
 Agriculture | Crop survey and analysis with visual computing
 Smart home (Internet Of Things) | With similar device development skills
 
+### Getting started:
+1. Here is a course in edx from TUM Munich on [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) which is adopted from [their own university MOOC course](https://www.tum.de/en/about-tum/news/press-releases/detail/article/31494/).
+
 ### AI and Machine learning resources:
 1. [Deep Learning and AI tutorials,Courses, lectures, videos, Papers, Researhers, Websites,Datasets, Apps, companies, projects and communities](https://www.leadingindia.ai/resources/).
 
