@@ -1,5 +1,5 @@
 # intelliPet
-Fun project to develop an intelligent pet with cognivtive abilities.
+Fun project to develop an intelligent pet with cognitive abilities.
 
 ### Idea:
 Develop a quadcopter with cognitive abilities using a low cost computer like Raspberry Pi. We call it a Picopter from here.
