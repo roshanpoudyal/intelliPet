@@ -9,7 +9,7 @@ Entity or Ability | Description or technology used
 ------------ | -------------
 Device and OS | Quadcopter + Raspberry Pi + Linux 
 Programming language  | C/C++
-Perception - Vision | Computer Vision (e.g. libraries [OpenCV](https://opencv.org/), [DLib](http://dlib.net/) etc.)
+Perception - Vision | Computer Vision (practice machine vision in this [playground](https://github.com/roshanpoudyal/machine_vision_application.git))
 Learning & Memory | Machine Learning, Reinforcement Learning, Genetic Algorithm
 Navigation & Localization | 3D cognitive map of the world for map matching, Computer vision for generating point clouds for 3D world etc.
 Control and Connectivity | Using mobile or web application to control and instruct the Picopter with for example Bluetooth connection. Maybe use a [Node-RED](https://nodered.org/) development environment. 
