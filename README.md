@@ -26,4 +26,6 @@ Smart home (Internet Of Things) | With similar device development skills
 
 ### AI and Machine learning resources:
 1. [Deep Learning and AI tutorials,Courses, lectures, videos, Papers, Researhers, Websites,Datasets, Apps, companies, projects and communities](https://www.leadingindia.ai/resources/).
+2. Learn fundamental concepts of machine learning and statistics concepts from [Statquest channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw).
+3. Nice [introduction to Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) from 3Blue1Brown on youtube.
 
